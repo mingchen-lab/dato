@@ -1,0 +1,9 @@
+UProC	B-BME
+Mosaic	B-BME
+Matching	I-BME
+IMPLEMENTATION	B-BME
+UProC	B-BME
+gobics	B-BME
+uproc	B-BME
+Pfam	B-BME
+UProC	B-BME
